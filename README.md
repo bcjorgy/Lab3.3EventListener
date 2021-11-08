@@ -5,6 +5,11 @@ Description: In this project, the author created an interactive website with the
 
 Installation: The user can download the html file and open the website. The html file can be downloaded to mac os or windows without any other additional software. In addition, the computer must have an internet browser. 
 
+Basic notes:
+-We use the <script> and </script> tags to add javascript in the body of the html
+-We use <style> and </style> tags to add css.
+
+
 Project Resources: The author used the following learning resources:
 1. www.freecodecamp.org (to learn html,css and javascript)
 2. https://www.w3schools.com (for further learning)
